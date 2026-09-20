@@ -22,6 +22,7 @@ public:
     }
 };
 //added for commit 2
+//added for commit 3
 
 int main() {
     BIT ft(5);
