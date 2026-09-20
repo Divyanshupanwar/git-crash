@@ -21,6 +21,7 @@ public:
         return s;
     }
 };
+//added for commit 2
 
 int main() {
     BIT ft(5);
